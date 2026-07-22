@@ -37,7 +37,3 @@ The server will start at: **`http://127.0.0.1:8000`**
 
 ### 3. Open Interactive API Docs
 Go to **`http://127.0.0.1:8000/docs`** in your browser to interactively test all endpoints.
-
-
-
-
